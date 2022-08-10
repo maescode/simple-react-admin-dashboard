@@ -3,7 +3,7 @@ import './widget.scss';
 import KeyboardArrowUpOutlinedIcon from '@mui/icons-material/KeyboardArrowUpOutlined';
 import PersonOutlinedIcon from '@mui/icons-material/PersonOutlined';
 import AccountBalanceWalletOutlinedIcon from '@mui/icons-material/AccountBalanceWalletOutlined';
-import AddShoppingCartOutlinedIcon from '@mui/icons-material/AddShoppingCartOutlined';
+//import AddShoppingCartOutlinedIcon from '@mui/icons-material/AddShoppingCartOutlined';
 import MonetizationOnOutlinedIcon from '@mui/icons-material/MonetizationOnOutlined';
 
 const Widget = ({ type }) => {

@@ -1,12 +1,12 @@
 import React, { useState } from 'react';
 import Navbar from '../components/navbar/Navbar';
 import Sidebar from '../components/sidebar/Sidebar';
-import Datatable from '../components/datatable/Datatable';
-import Chart from '../components/chart/Chart';
+//import Datatable from '../components/datatable/Datatable';
+//import Chart from '../components/chart/Chart';
 import DriveFolderUploadIcon from '@mui/icons-material/DriveFolderUpload';
 
 import './new.scss';
-import { InputSharp } from '@mui/icons-material';
+//import { InputSharp } from '@mui/icons-material';
 
 const New = ({ inputs, title }) => {
   const [file, setFile] = useState('');

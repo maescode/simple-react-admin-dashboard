@@ -1,0 +1,21 @@
+.app.dark {
+  background-color: #222;
+  color: white;
+  color: rgb(156, 156, 156);
+
+  .chatGrid {
+    stroke: rgba(288, 288, 288, 0.219);
+  }
+
+  .table {
+    background-color: #111;
+
+    .tableCell {
+      color: grey;
+    }
+  }
+  .navbar {
+    color: #999;
+    border-color: #333;
+  }
+}

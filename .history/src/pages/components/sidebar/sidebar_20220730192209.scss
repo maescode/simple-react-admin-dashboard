@@ -1,0 +1,9 @@
+.sidebar {
+  background-color: red;
+  flex: 1;
+  .top {
+    height: 50px;
+    display: flex;
+    align-items: center;
+  }
+}

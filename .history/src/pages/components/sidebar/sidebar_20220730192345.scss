@@ -1,0 +1,14 @@
+.sidebar {
+  background-color: red;
+  flex: 1;
+  .top {
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    .log {
+      font-size: 20px;
+    }
+  }
+}
